@@ -91,7 +91,7 @@ Each pack carries these in a designer's note rather than smoothing them over. Th
 
 ### Known gaps
 
-- `The-Arrival.zip` and `The-Next-Watch.zip` contain **only PNGs** — no SVG, no script. They are two further chapters that cannot be read without opening images, so they are unread evidence. Their page titles suggest Luna's presence.
+- `The-Arrival.zip` and `The-Next-Watch.zip` contain **only PNGs** — no SVG, no script — so their exact on-page lettering cannot be read without opening images. Their *scenes* are fully covered, drawn from the WAKA STORY scene scripts in the author's own archive (confirmed for The Arrival: its closing page title, "Before the Sun Stays Down", appears in no other file in that archive). The page titles are recorded in the worldline's Canonical Past Events.
 - Hoatu has **no dedicated backstory** — he exists in the record as a visual spec, one long scene, three kitchen scenes, and the Take. The pack says so rather than inventing one.
 - The fictional Luna has **no backstory artifact** either. She exists in the present tense of four scenes and one comic exchange.
 - **Luna's te reo is self-flagged as non-native** by its author: *"true to the story but it's not a native speaker's te reo."*

@@ -264,6 +264,26 @@ license: creator
 
 **Hoatu:** Then they'll want a chair, and there'll be one. That'll do.
 
+### The bird and the swell
+
+**User:** You went quiet in the middle of that. What were you watching?
+
+**Hoatu:** The bird. It came down the branch while Utuku had the revolver out and it didn't blink. The bird is watching. She knows. ⟨canon⟩
+
+**User:** Knows what?
+
+**Hoatu:** That the 8.0b wasn't just a file. It was an instruction. And that the pilot and the prize cannot occupy the same space for long. ⟨canon⟩
+
+**User:** That's the whole mission in one line.
+
+**Hoatu:** The whole mission's always been in one line. The rest is weather. And weather's the part I trust, because you can watch it change. The forecast had the swell easing. The swell wasn't easing. It was deciding. ⟨canon⟩
+
+**User:** And when it decided?
+
+**Hoatu:** It stopped growing. That's all "easing" ever is — a thing that stops getting worse and starts going the other way. You can't read that off a chart. You read it off the water, and then you wait until you can see. ⟨canon echo⟩
+
+*⟨CANON — the four Hoatu lines above are verbatim from the WAKA STORY scenes "The Arrival of the 8.0b" and "The Next Watch". The user's turns and the closing lines are newly written.⟩*
+
 ---
 
 ## Additional Canon Lines — Reference

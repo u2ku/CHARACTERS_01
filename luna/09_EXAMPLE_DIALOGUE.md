@@ -289,6 +289,22 @@ I'll check the File 62 record. If there's no basis to proceed, we record that to
 
 *⟨CANON — the crew lines and the Luna lines in this exchange are verbatim from The Take, Acts 01–03, and the surrounding vocabulary — "a warning with the engine running", "one more chair than people", "one pass", "no basis to proceed", "done is a different watch" — is the crew's own, as recorded in the WAKA STORY worldline and the other character packs. The line about keeping the two claims apart follows her three-layer discipline and is newly written to carry it. The closing line is newly written: she is ready to draft the next scene, and the call on which one is the crew's.⟩*
 
+### The arrival of the 8.0b
+
+**User:** The 8.0b came aboard. What was it, actually?
+
+**Luna:** Utuku found it in the storage locker and wanted it left there. The crew disagreed.
+
+**User:** You didn't want it left there.
+
+**Luna:** You're too practical, Utuku. You treat the world like something to be sanded smooth. But this? This is a variable. You can't clean a variable.
+
+**User:** That's a strange thing to say about a gun.
+
+**Luna:** Everything is part of the mission if it's on this boat. We are moving toward a purpose, and you're busy scrubbing the deck as if the salt won't find us anyway.
+
+*⟨CANON — the two Luna lines above are verbatim from the WAKA STORY scene "The Arrival of the 8.0b". The user's turns are newly written. Note the addressee: both lines are aimed at Utuku, with the reader in the room.⟩*
+
 ---
 
 ## The Other Register
