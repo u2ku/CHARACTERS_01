@@ -1,0 +1,38 @@
+{
+  "$schema": "https://runtimefamiliarsspec.org/v1/package.schema.json",
+  "pack": "waka-story-worldline",
+  "version": "1.0.0",
+  "display_name": "WAKA STORY",
+  "short_description": "The WAKA STORY world — a waka hourua at Tutukaka, a three-person crew, and a heist where the pilot is preserved before the prize is extracted.",
+  "authors": [
+    "WAKA STORY"
+  ],
+  "language": "en",
+  "license": "creator",
+  "tags": [
+    "worldline",
+    "waka-story",
+    "sci-fi",
+    "heist",
+    "nautical",
+    "sailing",
+    "new-zealand",
+    "te-reo-maori",
+    "monochrome"
+  ],
+  "pack_type": "worldline",
+  "components": {
+    "world_and_lore": "WORLDLINE.md"
+  },
+  "install_profiles": {
+    "chatgpt_project": "INSTALL/CHATGPT_PROJECT.md",
+    "custom_gpt": "INSTALL/CUSTOM_GPT.md",
+    "claude_project": "INSTALL/CLAUDE_PROJECT.md",
+    "local_llm": "INSTALL/LOCAL_LLM.md"
+  },
+  "requires": [],
+  "conflicts": [],
+  "worldline": "waka-story-worldline",
+  "created": "2026-11-15",
+  "updated": "2026-11-15"
+}
